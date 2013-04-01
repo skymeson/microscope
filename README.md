@@ -8,3 +8,9 @@ This is a small OSX App I clicked, copied and pasted together. I was making a mi
 With key 'g' you call upon the gui. With 'f' you save the current frame (WITH gui if present). With 'v' you save a video (w/o gui). Currently there are no video options. You would need to hardcode them.
 
 And of course there are the camera options to fine tune the picture. And a fullscreen toogle, because micro image look better macro style.
+
+Thanks goes to these addons:
+
+[ofxMacamPs3Eye](https://github.com/paulobarcelos/ofxMacamPs3Eye)
+[ofxVideoRecorder](https://github.com/timscaffidi/ofxVideoRecorder)
+[ofxUI](https://github.com/rezaali/ofxUI)
