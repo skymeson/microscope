@@ -1,0 +1,45 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Gain</Name>
+    <Value>0.740890682</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Shutter</Name>
+    <Value>0.068825908</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Gamma</Name>
+    <Value>0.492024302</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Brightness</Name>
+    <Value>0.376518220</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Contrast</Name>
+    <Value>0.396761119</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Hue</Name>
+    <Value>0.437246978</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Scale Width</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>Scale Units</Name>
+    <Value>100</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Fullscreen</Name>
+    <Value>0</Value>
+</Widget>
