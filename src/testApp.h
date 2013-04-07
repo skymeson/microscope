@@ -28,11 +28,26 @@ class testApp : public ofBaseApp{
 		int camWidth;
 		int camHeight;
     
-        ofxUICanvas *gui;
+        ofxUICanvas *gui_camera;
+        ofxUICanvas *gui_information;
+    
+        ofxUITextInput *author;
+        ofxUITextInput *date;
+        ofxUITextInput *specimen;
+        ofxUITextInput *sample_name;
+    
+        ofxUITextInput *scale_units_textinput;
+    
+        ofTrueTypeFont newmediafett;
+    
+        float scale_width;
+        float scale_units;
+    
         void exit();
         void guiEvent(ofxUIEventArgs &e);
     
         bool bShowGUI;
+        bool bShowFooter;
     
         ofxVideoRecorder vidRecorder;
         bool bRecording;
@@ -40,4 +55,6 @@ class testApp : public ofBaseApp{
         int channels;
         string fileName;
         string fileExt;
+    
+        bool bControl;
 };

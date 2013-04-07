@@ -14,3 +14,5 @@ Thanks goes to these addons:
 [ofxMacamPs3Eye](https://github.com/paulobarcelos/ofxMacamPs3Eye)
 [ofxVideoRecorder](https://github.com/timscaffidi/ofxVideoRecorder)
 [ofxUI](https://github.com/rezaali/ofxUI)
+
+**The selfwritten code in *src* is released unter Public Domain, 2013, the rest according to their own specific licenses.** 
