@@ -9,10 +9,20 @@ With key 'g' you call upon the gui. With 'f' you save the current frame (WITH gu
 
 And of course there are the camera options to fine tune the picture. And a fullscreen toogle, because micro image look better macro style.
 
+_The video recording function depends on ffmpeg installed_
+
 Thanks goes to these addons:
 
 [ofxMacamPs3Eye](https://github.com/paulobarcelos/ofxMacamPs3Eye)
 [ofxVideoRecorder](https://github.com/timscaffidi/ofxVideoRecorder)
 [ofxUI](https://github.com/rezaali/ofxUI)
 
-**The selfwritten code in *src* is released unter Public Domain, 2013, the rest according to their own specific licenses.** 
+**The selfwritten code in *src* is released unter GPL, 2013, the rest according to their own specific licenses.** 
+
+Todos
+
+- ffmpeg integrieren
+- frame capture 1:1, no scaling
+- scale line gezogen
+- filename bei video / frame automatisch nummerieren
+- usb abstellen wenn pc zugeklappt
